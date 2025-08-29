@@ -1,6 +1,6 @@
 # Ex.No: 3  Implementation of Minimax Search
-### DATE: 3.02.2025                                                                       
-### REGISTER NUMBER : 212221060202
+### DATE: 29.8.2025                                                                       
+### REGISTER NUMBER : 212222220045
 ### AIM: 
 Write a mini-max search algorithm to find the optimal value of MAX Player from the given graph.
 ### Algorithm:
@@ -49,7 +49,7 @@ print("The optimal value is : ", end = "")
 
 ### Output:
 
-![image](https://github.com/Rajithxx/AI_Lab_2023-24/assets/148357145/498ae52d-8016-425b-a9ad-94d2571b9a9c)
+<img width="1920" height="1080" alt="Screenshot 2025-08-29 094428" src="https://github.com/user-attachments/assets/fa402e44-e8e2-4dee-bc57-7702969efb9f" />
 
 
 ### Result:
