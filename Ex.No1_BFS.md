@@ -50,7 +50,7 @@ bfs(visited, graph, '5')    # function calling
 
 
 ### Output:
-![Screenshot (23)](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/940125d5-0550-43a6-9a89-e7e6866154c0)
+<img width="1920" height="1080" alt="ex1" src="https://github.com/user-attachments/assets/2967e07f-36cb-4137-aea5-b7fb9d062c5a" />
 
 
 
