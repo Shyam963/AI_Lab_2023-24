@@ -24,7 +24,7 @@ factorial(A,B) :-
 
 ### Output:
 
-![image](https://github.com/user-attachments/assets/493873a9-1149-4454-8414-05add404537f)
+<img width="1919" height="879" alt="Screenshot 2025-09-12 081415" src="https://github.com/user-attachments/assets/a92fca97-4090-4487-b62d-c8a25773459d" />
 
 
 ### Result:
