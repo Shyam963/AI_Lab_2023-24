@@ -59,7 +59,7 @@ symptom(raju,sore_throat).
 
 
 ### Output:
-![Screenshot (36)](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/51224685-6269-4428-b8f8-cf4dcb8446bd)
+<img width="1918" height="876" alt="Screenshot 2025-09-12 092435" src="https://github.com/user-attachments/assets/5eb684b2-b8b1-4034-bf8b-049618b0a4c8" />
 
 
 
